@@ -1,14 +1,1 @@
-
-{
-  "appVersion": "0.4.2",
-  "releaseNotes": "Primera configuración del sistema de actualizaciones de NEONTRADE Mobile.",
-  "apkUrl": "",
-  "modules": {
-    "Inicio": "",
-    "IA Monitor": "",
-    "Mercado e Histórico": "",
-    "Órdenes": "",
-    "Historial": "",
-    "Ajustes": ""
-  }
-}
+https://github.com/adalbertoespino90/neontrade-mobile-updates/releases/download/v0.4.2/app-debug.apk
