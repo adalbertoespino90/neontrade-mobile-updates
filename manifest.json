@@ -28,11 +28,11 @@
       "packageUrl": "",
       "sha256": ""
     },
-    "history": {
-      "version": "1.0.0",
-      "description": "Historial de operaciones",
-      "packageUrl": "",
-      "sha256": ""
+    "market_history": {
+      "version": "1.0.1",
+      "description": "Configuración independiente de Mercado e Histórico",
+      "packageUrl": "https://raw.githubusercontent.com/adalbertoespino90/neontrade-mobile-updates/main/modules/market_history.json",
+      "sha256": "fdeab4629817ca9f3944367edc0056357c6fa0d034231b1f00282aa22927faeb"
     },
     "settings": {
       "version": "1.0.0",
