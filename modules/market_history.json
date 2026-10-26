@@ -1,0 +1,12 @@
+
+{
+  "schemaVersion": 1,
+  "moduleId": "market_history",
+  "version": "1.0.1",
+  "description": "Configuración modular de Mercado e Histórico",
+  "config": {
+    "symbols": ["AAPL", "NVDA", "MSFT", "SPY"],
+    "intervals": ["1M", "5M", "15M", "1H", "1D"],
+    "bannerText": "Mercado e Histórico · configuración modular v1.0.1"
+  }
+}
