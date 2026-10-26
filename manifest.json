@@ -1,14 +1,46 @@
+
 {
   "appVersion": "0.4.3",
-  "releaseNotes": "Primera versión del actualizador de GitHub. Órdenes reales desactivadas.",
+  "releaseNotes": "Actualizador de GitHub. Ordenes reales desactivadas.",
   "apkUrl": "https://github.com/adalbertoespino90/neontrade-mobile-updates/releases/download/v0.4.3/app-debug.apk",
   "modules": {
-    "Inicio": "",
-    "IA Monitor": "",
-    "Mercado e Histórico": "",
-    "Órdenes": "",
-    "Historial": "",
-    "Ajustes": ""
+    "dashboard": {
+      "version": "1.0.0",
+      "description": "Configuracion del inicio",
+      "packageUrl": "",
+      "sha256": ""
+    },
+    "ai_monitor": {
+      "version": "1.0.0",
+      "description": "Monitor de IA",
+      "packageUrl": "",
+      "sha256": ""
+    },
+    "market_history": {
+      "version": "1.0.1",
+      "description": "Primera actualizacion de Mercado e Historico",
+      "packageUrl": "",
+      "sha256": ""
+    },
+    "orders": {
+      "version": "1.0.0",
+      "description": "Modulo de ordenes",
+      "packageUrl": "",
+      "sha256": ""
+    },
+    "history": {
+      "version": "1.0.0",
+      "description": "Historial de operaciones",
+      "packageUrl": "",
+      "sha256": ""
+    },
+    "settings": {
+      "version": "1.0.0",
+      "description": "Ajustes y API",
+      "packageUrl": "",
+      "sha256": ""
+    }
   }
 }
+
 
