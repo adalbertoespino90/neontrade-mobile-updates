@@ -1,7 +1,7 @@
 {
-  "appVersion": "0.4.2",
+  "appVersion": "0.4.3",
   "releaseNotes": "Primera versión del actualizador de GitHub. Órdenes reales desactivadas.",
-  "apkUrl": "https://github.com/adalbertoespino90/neontrade-mobile-updates/releases/download/v0.4.2/app-debug.apk",
+  "apkUrl": "https://github.com/adalbertoespino90/neontrade-mobile-updates/releases/download/v0.4.3/app-debug.apk",
   "modules": {
     "Inicio": "",
     "IA Monitor": "",
